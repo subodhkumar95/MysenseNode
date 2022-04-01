@@ -1,0 +1,48 @@
+[{
+    "id": "1",
+    "first_name": "John",
+    "last_name": "Terrens",
+    "email": "terrens@gmai.com",
+    "gender": "Male",
+    "car_make": "suzuki"
+},
+{
+    "id": "2",
+    "first_name": "Rohit",
+    "last_name": "Sharma",
+    "email": "rohits@gmai.com",
+    "gender": "Male",
+    "car_make": "hyundai"
+},
+{
+    "id": "3",
+    "first_name": "Bobby",
+    "last_name": "Bajaj",
+    "email": "bajaj@gmai.com",
+    "gender": "Male",
+    "car_make": "suzuki"
+},
+{
+    "id": "4",
+    "first_name": "Kritika",
+    "last_name": "Sharma",
+    "email": "sharma@gmai.com",
+    "gender": "Female",
+    "car_make": "maruti"
+},
+{
+    "id": "5",
+    "first_name": "Aki",
+    "last_name": "Sharma",
+    "email": "terrens@gmai.com",
+    "gender": "Male",
+    "car_make": "suzuki"
+},
+{
+    "id": "6",
+    "first_name": "Rahul",
+    "last_name": "Taneja",
+    "email": "terrens@gmai.com",
+    "gender": "Male",
+    "car_make": "suzuki"
+}]
